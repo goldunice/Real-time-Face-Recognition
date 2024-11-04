@@ -1,7 +1,4 @@
 Uz/Eng
-Mana loyiha uchun README faylini o‘zbek tilida yozish varianti:
-
----
 
 # Yuzni Tanib Olish uchun Mashg‘ulot Loyihasi
 
